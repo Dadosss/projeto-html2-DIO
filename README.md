@@ -1,2 +1,2 @@
 # Projeto-html2-DIO
-Projetp de HTML DIO
+Projeto de HTML DIO
